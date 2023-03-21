@@ -23,7 +23,7 @@
         </dependency>
 
         <dependency>
-            <groupId>org.springframework.boot</groupId>
+            <groupId>org.springframework.boot-web</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
